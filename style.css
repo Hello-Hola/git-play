@@ -4,5 +4,6 @@ body{
     height: 100vh;
     place-content: center;
     display: flex;
+    display: gird;
 }
 
